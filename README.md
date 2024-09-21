@@ -2,7 +2,7 @@
 
 [![npm version](https://img.shields.io/npm/v/gogocode.svg)](https://www.npmjs.com/package/gogocode) [![license](https://img.shields.io/npm/l/gogocode.svg)](LICENSE) 
 
-[ 详细文档请点击这里ha ](https://github.com/thx/gogocode/blob/main/docs/specification/basic.zh.md)
+[ 详细文档请一定点击这里ha ](https://github.com/thx/gogocode/blob/main/docs/specification/basic.zh.md)
 
 ## What is GoGoCode?
 
